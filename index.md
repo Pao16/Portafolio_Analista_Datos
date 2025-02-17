@@ -53,7 +53,7 @@ Este es un espacio donde guardo ejercicios de cursos, prácticas técnicas y peq
 
 ✨ **CV descargable:** [Descargar mi CV](#)  
 📧 **Correo:** tunombre@email.com  
-🔗 **LinkedIn:** [Mi LinkedIn](https://linkedin.com/in/tuusuario)  
+🔗 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/paola-bonifacio-ram/)  
 
 ---
 
