@@ -53,7 +53,7 @@ Este es un espacio donde guardo ejercicios de cursos, prácticas técnicas y peq
 ## 📄 CV y contacto
 
 ✨ **CV descargable:** [Descargar mi CV](#)  
-📧 **Correo:** tunombre@email.com  
+📧 **Correo:** paolytics@gmail.com  
 🔗 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/paola-bonifacio-ram/)  
 
 ---
