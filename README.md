@@ -4,7 +4,7 @@
 ## 🌟 Sobre mí
 Soy Paola Bonifacio, analista de datos, apasionada por transformar datos en insights accionables. Actualmente estoy desarrollando mis habilidades técnicas y construyendo un portafolio sólido.
 
-👉 **Herramientas y habilidades en proceso:**  
+👉 **Herramientas y habilidades:**  
 - Lenguajes: Python, SQL  
 - Análisis y visualización: Pandas, Matplotlib, Seaborn, Tableau, Power BI
 - Bases de datos: MySQL, PostgreSQL 
