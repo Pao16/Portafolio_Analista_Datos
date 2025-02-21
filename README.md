@@ -1,3 +1,5 @@
+##Bienvenido/a a mi portafolio de analista de datos. Aquí encontrarás proyectos, ejercicios prácticos y recursos que reflejan mi crecimiento profesional en el mundo del análisis y la ciencia de datos.
+
 
 # 📊 Portafolio de Analista de Datos
 
@@ -6,7 +8,7 @@ Soy Paola Bonifacio, analista de datos, apasionada por transformar datos en insi
 
 👉 **Herramientas y habilidades:**  
 - Lenguajes: Python, SQL  
-- Análisis y visualización: Pandas, Matplotlib, Seaborn, Tableau, Power BI
+- Análisis y visualización: Pandas, Matplotlib, Seaborn, Numpy, Tableau, Power BI
 - Bases de datos: MySQL, PostgreSQL 
 - Ciencia de datos: Machine Learning (Scikit-learn)
 
@@ -50,6 +52,7 @@ Este es un espacio donde guardo ejercicios de cursos, prácticas técnicas y peq
 
 ---
 
+
 ## 📄 CV y contacto
 
 ✨ **CV descargable:** [Descargar mi CV](#)  
@@ -57,7 +60,13 @@ Este es un espacio donde guardo ejercicios de cursos, prácticas técnicas y peq
 🔗 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/paola-bonifacio-ram/)  
 
 ---
+---
 
-👉 Este portafolio está en constante actualización. ¡Gracias por visitarlo! 🚀
+## 🛠️ En constante crecimiento 
+
+👉 Sigo aprendiendo y explorando nuevas herramientas y técnicas. Este portafolio se actualiza con frecuencia, así que ¡no dudes en volver pronto! 🚀
+
+🚀 ¿Colaboremos? ¡Estoy abierta a nuevas oportunidades y proyectos interesantes!
+
 
 
