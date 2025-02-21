@@ -1,4 +1,4 @@
-##Bienvenido/a a mi portafolio de analista de datos. Aquí encontrarás proyectos, ejercicios prácticos y recursos que reflejan mi crecimiento profesional en el mundo del análisis y la ciencia de datos.
+**Bienvenido/a a mi portafolio de analista de datos. Aquí encontrarás proyectos, ejercicios prácticos y recursos que reflejan mi crecimiento profesional en el mundo del análisis y la ciencia de datos.**
 
 
 # 📊 Portafolio de Analista de Datos
@@ -59,7 +59,6 @@ Este es un espacio donde guardo ejercicios de cursos, prácticas técnicas y peq
 📧 **Correo:** paolytics@gmail.com  
 🔗 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/paola-bonifacio-ram/)  
 
----
 ---
 
 ## 🛠️ En constante crecimiento 
