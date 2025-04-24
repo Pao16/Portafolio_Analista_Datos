@@ -35,6 +35,13 @@ Aquí presento algunos de los proyectos más relevantes que he desarrollado. Cad
 - Herramientas: Tableau, SQL (en proceso)
 - [Ver el tablero](https://public.tableau.com/views/mi_dashboard)
 
+### 4️⃣ Dashboard Superstore
+**Descripción:** Creación de un dashboard en Tableau para el seguimiento de métricas clave de ventas mensuales.  
+- Herramientas: Tableau, Python
+- [Ver el tablero](https://github.com/Pao16/Superstore)
+
+
+
 ---
 
 ## 📂 Repositorios de ejercicios y prácticas
