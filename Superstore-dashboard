@@ -1,0 +1,69 @@
+# 📊 Superstore Sales Dashboard – Análisis Gerencial
+
+Este proyecto analiza los datos de ventas de Superstore con un enfoque ejecutivo. A través de un dashboard interactivo en Tableau, se visualizan los principales KPIs del negocio, ayudando a identificar oportunidades de mejora y reforzamiento comercial.
+
+---
+
+## 🎯 Objetivo
+
+Brindar a tomadores de decisiones una vista clara y resumida del desempeño comercial de Superstore mediante indicadores clave y visualizaciones interactivas.
+
+---
+
+## 📁 Dataset
+
+**Fuente:** [Sample - Superstore.csv](https://community.tableau.com/s/sample-superstore)  
+El dataset contiene información de ventas, ganancias, categorías de producto, regiones y fechas.
+
+---
+
+## 📌 KPIs mostrados
+
+- Total de ventas
+- Total de ganancias
+- Margen de ganancia (%)
+- Total de pedidos
+
+---
+
+## 📍 Visualizaciones incluidas
+
+- Tendencia de ventas mensuales
+- Ventas y ganancias por categoría
+- Ventas por región
+- Mapa con distribución geográfica
+- KPIs destacados en la parte superior
+
+---
+
+## 🔍 Hallazgos clave
+
+- **Tendencia de ventas creciente** a lo largo del tiempo.
+- **Margen de ganancia promedio de 12.47%**, lo que sugiere analizar costos y descuentos.
+- **Categorías como [ej. Technology]** destacan en rentabilidad.
+- **Desigualdad regional** en ventas y ganancias, lo que sugiere explorar estrategias localizadas.
+
+---
+
+## 📈 Público objetivo
+
+Este dashboard está diseñado para gerentes y líderes de negocio que requieren monitorear de forma rápida y efectiva el rendimiento comercial general.
+
+---
+
+## 🧠 Herramientas utilizadas
+
+- Tableau Public (visualización)
+- Python + Pandas (limpieza de datos)
+- GitHub (almacenamiento y presentación del proyecto)
+
+---
+
+## 🔗 Visualización
+
+👉 Puedes ver el dashboard publicado aquí: [🔗 https://public.tableau.com/views/Superstore_17454686456620/DashboardGerencial?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+
+---
+
+## 🗂️ Estructura del repositorio
+
